@@ -1,0 +1,2 @@
+# RiptsManPos
+Descriptive Bot
