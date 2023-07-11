@@ -1,4 +1,5 @@
-# RiptsMan Discord Bot
+# Ript Man Discord Bot 
+## Ripts Main Discord Bot - SET TO RECEIVE AI commands in future
 
 *********************************************************************
 
